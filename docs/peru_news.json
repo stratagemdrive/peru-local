@@ -1,6 +1,14 @@
 {
   "country": "Peru",
-  "last_updated": "2026-04-10T14:36:52.777051+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-04-10T23:41:52.158998+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "What to expect from Peru’s general election on Sunday",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/what-to-expect-from-perus-general-election-on-sunday/10736/",
+      "published_date": "2026-04-10T19:49:43+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
