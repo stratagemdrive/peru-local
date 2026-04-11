@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-04-11T11:38:53.225529+00:00",
-  "story_count": 1,
+  "last_updated": "2026-04-11T23:41:40.983934+00:00",
+  "story_count": 2,
   "stories": [
+    {
+      "title": "Can its next president tackle Peru’s rampant corruption?",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/can-its-next-president-tackle-perus-rampant-corruption/10740/",
+      "published_date": "2026-04-11T21:42:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "What to expect from Peru’s general election on Sunday",
       "source": "Peru Reports",
