@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-04-24T23:46:57.079209+00:00",
-  "story_count": 5,
+  "last_updated": "2026-04-25T11:46:05.031978+00:00",
+  "story_count": 6,
   "stories": [
+    {
+      "title": "Latin America’s Top 30 Banks",
+      "source": "Latinvex",
+      "url": "",
+      "published_date": "2026-04-23T14:52:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Latin America’s Top 30 Banks",
       "source": "Latinvex",
