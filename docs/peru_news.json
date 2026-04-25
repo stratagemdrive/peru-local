@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-04-25T11:46:05.031978+00:00",
+  "last_updated": "2026-04-25T23:45:42.746969+00:00",
   "story_count": 6,
   "stories": [
+    {
+      "title": "Latin America’s Top 30 Banks",
+      "source": "Latinvex",
+      "url": "",
+      "published_date": "2026-04-23T14:52:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Latin America’s Top 30 Banks",
       "source": "Latinvex",
@@ -37,13 +44,6 @@
       "url": "https://perureports.com/slalom-foundation-supports-peruvian-protected-areas-as-1-3-trillion-carbon-credit-market-grows/10757/",
       "published_date": "2026-04-24T21:40:26+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Mounting irregularities cloud Peru’s 2026 general election as runoff remains unclear",
-      "source": "Peru Reports",
-      "url": "https://perureports.com/mounting-irregularities-cloud-perus-2026-general-election-as-runoff-remains-unclear/10750/",
-      "published_date": "2026-04-18T18:40:28+00:00",
-      "category": "Local Events"
     }
   ]
 }
