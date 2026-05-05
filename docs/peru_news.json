@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-05-04T23:59:12.887776+00:00",
-  "story_count": 11,
+  "last_updated": "2026-05-05T12:08:24.799506+00:00",
+  "story_count": 12,
   "stories": [
+    {
+      "title": "Peru Launches Special Economic Zones",
+      "source": "Latinvex",
+      "url": "",
+      "published_date": "2026-04-29T14:47:28+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Peru Launches Special Economic Zones",
       "source": "Latinvex",
