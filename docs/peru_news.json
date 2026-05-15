@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-05-15T00:00:56.284503+00:00",
-  "story_count": 1,
+  "last_updated": "2026-05-15T13:00:04.224919+00:00",
+  "story_count": 2,
   "stories": [
+    {
+      "title": "Business Complexity: Mexico Now Second-Worst Worldwide",
+      "source": "Latinvex",
+      "url": "",
+      "published_date": "2026-05-13T19:09:37+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business Complexity: Mexico Now Second-Worst Worldwide",
       "source": "Latinvex",
