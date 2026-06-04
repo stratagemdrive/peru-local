@@ -1,6 +1,14 @@
 {
   "country": "Peru",
-  "last_updated": "2026-06-03T15:50:20.023852+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-06-04T01:44:42.949616+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "A polarized election may not matter for one of Peru’s biggest concerns: corruption",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/a-polarized-election-may-not-matter-for-one-of-perus-biggest-concerns-corruption/10763/",
+      "published_date": "2026-06-03T19:00:37+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
