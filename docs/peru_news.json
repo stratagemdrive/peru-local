@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-06-06T12:11:18.262841+00:00",
-  "story_count": 1,
+  "last_updated": "2026-06-07T00:10:15.243086+00:00",
+  "story_count": 2,
   "stories": [
+    {
+      "title": "Perú’s Roberto Sánchez carries Pedro Castillo’s sombrero and his political movement",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/perus-roberto-sanchez-carries-pedro-castillos-sombrero-and-his-political-movement/10773/",
+      "published_date": "2026-06-06T22:10:56+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "A polarized election may not matter for one of Peru’s biggest concerns: corruption",
       "source": "Peru Reports",
