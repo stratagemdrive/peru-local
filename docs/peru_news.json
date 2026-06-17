@@ -1,6 +1,14 @@
 {
   "country": "Peru",
-  "last_updated": "2026-06-16T16:01:24.165185+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-06-17T00:22:10.248167+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "Peru’s presidential race remains too close to call as vote count inches forward",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/perus-presidential-race-remains-too-close-to-call-as-vote-count-inches-forward/10778/",
+      "published_date": "2026-06-16T16:12:45+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
