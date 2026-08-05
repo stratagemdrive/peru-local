@@ -1,8 +1,15 @@
 {
   "country": "Peru",
-  "last_updated": "2026-08-05T00:09:11.283970+00:00",
-  "story_count": 10,
+  "last_updated": "2026-08-05T12:59:00.736485+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "Peru: Fujimori Impact on Mining",
+      "source": "Latinvex",
+      "url": "",
+      "published_date": "2026-07-30T13:42:42+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Peru: Fujimori Impact on Mining",
       "source": "Latinvex",
