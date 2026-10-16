@@ -1,6 +1,14 @@
 {
   "country": "Peru",
-  "last_updated": "2026-10-15T15:33:49.676410+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-10-16T01:04:29.140294+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "Peru student assault scandal sparks debate over violence at schools",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/peru-student-assault-scandal-sparks-debate-over-violence-at-schools/10801/",
+      "published_date": "2026-10-15T17:31:22+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
