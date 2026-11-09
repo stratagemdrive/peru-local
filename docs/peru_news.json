@@ -1,6 +1,14 @@
 {
   "country": "Peru",
-  "last_updated": "2026-11-09T02:29:45.196578+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-11-09T21:22:40.731726+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "Peru’s Keiko Fujimori pushes Bukele-inspired prison reform",
+      "source": "Peru Reports",
+      "url": "https://perureports.com/perus-keiko-fujimori-pushes-bukele-inspired-prison-reform/10826/",
+      "published_date": "2026-11-09T20:35:27+00:00",
+      "category": "Local Events"
+    }
+  ]
 }
